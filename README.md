@@ -11,7 +11,7 @@ Get ready to make your moves, keep track of your victories, and enjoy the nostal
 ## Screenshots
 | Menu Screen                                                    | Game Play                                                    | Game History                                                       |
 |----------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------|
-| <img src="images/game-menu.png" alt="Menu Screen" width="350"> | <img src="images/game-play.png" alt="Game Play" width="350"> | <img src="images/game-history.png" alt="Game History" width="400"> |
+| <img src="rock-paper-scissors/images/game-menu.png" alt="Menu Screen" width="350"> | <img src="rock-paper-scissors/images/game-play.png" alt="Game Play" width="350"> | <img src="rock-paper-scissors/images/game-history.png" alt="Game History" width="400"> |
 ## Technologies 
 - Programming Language: Java
 - Development Environment: IntelliJ IDEA
@@ -23,7 +23,7 @@ Get ready to make your moves, keep track of your victories, and enjoy the nostal
 2. Open the project in IntelliJ IDEA or any JAVA IDE
 3. Build and run the game. 
 ### Game Rules 
-![Rock Paper Scissors Rules](images/Rock-paper-scissors.svg)
+![Rock Paper Scissors Rules](rock-paper-scissors/images/Rock-paper-scissors.svg)
 
 By Enzoklop - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27958688
 
@@ -38,7 +38,7 @@ By Enzoklop - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?
 - As a user, I am able to play multiple rounds without resetting player names or exiting the game. 
 - As a user, I can clear the game history.
 ### Code Structure Diagram
-![Diagram](images/java-diagram.png)
+![Diagram](rock-paper-scissors/images/java-diagram.png)
 ## Acknowledgements
 This project was created to practice Java Object-Oriented Programming (OOP) principles. It is a fork of General Assembly's [Java OOP mini project](https://git.generalassemb.ly/java-interapt-7-31/java-oop-mini-project.git) repository. 
 
